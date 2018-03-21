@@ -1,0 +1,4 @@
+/* Link renders as an ancor tag */
+form a {
+  margin-left: 5px;
+}
